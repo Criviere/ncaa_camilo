@@ -7,6 +7,7 @@ Given the event’s highly anticipated popularity and excitement, a prescriptive
 -	Three Point Reliance, which explains the percentage of points scored from three pointers for a team. 
 Part of the objective for implementing this project is to apply most of the skills acquired throughout the program in a setting that is applicable to both college and non-college students, as well as sports and non-sports fans. By creating this model, one can understand the complexities that exist in such an assignment, and one can further understand all the work that is required for other related assignments that exist across different industries. Plus, given that this galvanizes people and there is a lot of stake, individuals who attempt to create such model can get closer to a potential breakthrough in the world of analytics that may potentially shed some light into other analytics-related issues that are present in other sectors.
 
+---
 To see this notebook live, please head on over to: 
 https://nccab.notebook.us-east-1.sagemaker.aws/notebooks/WP_Blog_CBB.ipynb
 

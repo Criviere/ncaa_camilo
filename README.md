@@ -1,4 +1,4 @@
-# College Basketball Prediction Application Built by Camilo Riviere &amp; Armando Zapata
+# March Madness Prediction Built by Camilo Riviere &amp; Armando Zapata.
 
 Every collegiate basketball team in the country wants a chance to play in the NCAA Men’s Basketball tournament. Only 68 teams make it, hence the excitement and thrill around this event. For seventy-seven years, the highly anticipated NCAA Division I collegiate basketball tournament has taken place. From the University of Oregon winning in 1939, to Villanova claiming the title in last year’s competition, there has been plenty of excitement throughout the years surrounding this event. 
 Given the event’s highly anticipated popularity and excitement, a prescriptive model is being created in an attempt to accurately predict the outcome of the upcoming tournament. To help with this matter, a preliminary analysis will be performed to determine the model’s accuracy, and it will be monitored as the tournament progresses. Further analysis will include incorporating advanced statistics such as:

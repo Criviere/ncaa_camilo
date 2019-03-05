@@ -9,4 +9,9 @@ Part of the objective for implementing this project is to apply most of the skil
 
 To see this notebook live, please head on over to: https://nccab.notebook.us-east-1.sagemaker.aws/notebooks/WP_Blog_CBB.ipynb
 
-The link above has the code for the model as well as any pertinent comments.
+The link above has the code for the model as well as any pertinent comments for each code block.
+
+If you would like to demo our model then please proceed to: https://criviere.github.io/ncaa_camilo_armando
+
+At the demo link you will be able to select matchups for any college team of your preference and have a prediction returned on the teams of your 
+choice.
